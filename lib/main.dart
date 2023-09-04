@@ -108,11 +108,13 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text(
               'Inthania Nadicika Kurniawan',
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+              style: TextStyle(fontSize: 26, fontWeight: FontWeight.bold),
             ),
             const Text(
               '2141720012',
-              style: TextStyle(fontSize: 20),
+              style: TextStyle(
+                fontSize: 22,
+              ),
             ),
             Text(
               '',
